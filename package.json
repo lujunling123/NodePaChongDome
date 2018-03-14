@@ -1,0 +1,24 @@
+{
+  "name": "nodepachongdome",
+  "version": "1.0.0",
+  "description": "爬虫案例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lujunling123/NodePaChongDome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lujunling123/NodePaChongDome/issues"
+  },
+  "homepage": "https://github.com/lujunling123/NodePaChongDome#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.2"
+  }
+}
